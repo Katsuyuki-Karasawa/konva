@@ -62,7 +62,7 @@
     "@parcel/transformer-image": "2.10.1",
     "@size-limit/preset-big-lib": "^11.0.1",
     "@types/mocha": "^10.0.6",
-    "canvas": "^2.11.2",
+    "canvas": "npm:@napi-rs/canvas@^0.1.51",
     "chai": "4.3.10",
     "filehound": "^1.17.6",
     "gulp": "^4.0.2",
